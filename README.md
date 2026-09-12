@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-</b>$\color{#2e2d6a}\textsf{♯ 1 ticci toby , x-virus fan :P}$
+</b>$\color{#2e2d6a}\textsf{𝐁α𝗌𝗂𝖼 𝐃𝐍𝚰 𝖼𝗋𝗂𝗍𝖾𝗋𝗂α !!}$
 </p>
 
 
