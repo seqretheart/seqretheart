@@ -2,9 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=MyValent1ne&label=ꨄ&style=plastic&color=332d73" />
 </p>
 
-<p align="center">
-</b>$\color{#f3f0ba}\textsf{"⟡ 𓈒「˖ ' 𝐈 𝐛𝐞𝐥𝐢𝐞𝐯𝐞 𝐭𝐡𝐚𝐭 𝐠𝐨𝐨𝐝 𝐭𝐡𝐢𝐧𝐠𝐬.. 𝐨𝐧𝐥𝐲 𝐜𝐨𝐦𝐞 𝐭𝐨 𝐭𝐡𝐨𝐬𝐞 𝐰𝐡𝐨 𝐰𝐚𝐢𝐭 . " 」
-}$
+
 
 
 </p>
